@@ -1,0 +1,2 @@
+objdump -M intel-mnemonic -d print_hex.o
+readlf --relocs functions.o

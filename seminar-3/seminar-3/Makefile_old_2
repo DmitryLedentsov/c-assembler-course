@@ -1,0 +1,10 @@
+#makefile
+#lib.asm - файл с print_hex и exit
+lib.o: lib.asm 
+	nasm -f elf64 -o $@ $<
+#main.asm - файл вызова
+main.o: main.asm lib.o
+	nasm -f elf64 -o $@ $<
+
+program: lib.o main.o
+	ld -o $@ $+

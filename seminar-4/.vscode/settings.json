@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-4",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-4/hello",
+            "binaryArgs": []
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-5",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-5/generic_print",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-5",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-5/task2",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-5",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-5/task3",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-5",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-5/task4",
+            "binaryArgs": []
+        }
+    ]
+}

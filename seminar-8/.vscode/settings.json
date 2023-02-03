@@ -1,0 +1,37 @@
+{
+    "files.associations": {
+        "time.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\leden\\OneDrive\\ITMO\\sem_3\\c-assembler\\seminar-8",
+            "binaryPath": "c:\\Users\\leden\\OneDrive\\ITMO\\sem_3\\c-assembler\\seminar-8\\task_1",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8/task_1",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8/task_2",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8/task_3",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8/task_4",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8",
+            "binaryPath": "/mnt/c/Users/leden/OneDrive/ITMO/sem_3/c-assembler/seminar-8/task_3_2",
+            "binaryArgs": []
+        }
+    ]
+}
